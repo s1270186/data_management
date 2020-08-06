@@ -12,7 +12,7 @@ public class Head_or_Tail{
 
         System.out.println("who are you?\n->");
         String name = scan.nextLine();
-        System.out.println("Hello, " + name "!");
+        System.out.println("Hello, " + name);
 
         System.out.println("Tossing a coin...");
 
